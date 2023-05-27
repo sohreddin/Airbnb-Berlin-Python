@@ -25,4 +25,4 @@ The following python libraries were used:
 - Scikit-learn
 
 # Tableau Story
-[here](https://public.tableau.com/app/profile/s.hreddin/viz/AirbnbBerlin_16850316399840/Story1).
+[Rental Market Analysis of Airbnb Berlin](https://public.tableau.com/app/profile/s.hreddin/viz/AirbnbBerlin_16850316399840/Story1).
