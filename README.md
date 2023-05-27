@@ -10,7 +10,7 @@ The following is an in-depth analysis of Airbnb in Berlin, aimed at examining va
 # Hypothesis 
 It is hypothesized that the host listings for an Airbnb listing in Berlin has a positive impact on its pricing.
 
-# Data Source
+# Data 
 The data being referred to is publicly accessible and sourced from Inside Airbnb [here](http://insideairbnb.com/get-the-data).
 
 # Tools
@@ -23,3 +23,6 @@ The following python libraries were used:
 - Scipy
 - Folium
 - Scikit-learn
+
+# Tableau Story
+[here](https://public.tableau.com/app/profile/s.hreddin/viz/AirbnbBerlin_16850316399840/Story1).
