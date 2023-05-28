@@ -15,6 +15,7 @@ The data being referred to is publicly accessible and sourced from Inside Airbnb
 
 # Tools
 Tableau
+
 The following python libraries were used:
 - Pandas
 - Numpy
